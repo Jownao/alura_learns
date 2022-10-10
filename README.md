@@ -1,1 +1,3 @@
-# alura_learns
+# Alura learns
+
+Repositório para armazenar aprendizados em cursos da alura.
